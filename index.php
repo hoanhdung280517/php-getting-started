@@ -67,14 +67,14 @@
 					<a href="details.php"><img src="images/r74620_yel_2.jpg" alt="" /></a>
 					 <h2>Driver car transforms Pagani</h2>
 					 <p>With the speed of 8km / h, the control distance is up to 30 meters, the suspension system, removable rubber tires. Rastar deserves to be the leading control vehicle manufacturer</p>
-					 <p><span class="price">$428.02</span></p>
+					 <p><span class="price">428.000 VNĐ</span></p>
 				     <div class="button"><span><a href="details.php" class="details">Details</a></span></div>
 				</div>
 				<div class="grid_1_of_4 images_1_of_4">
 				 <img src="images/r75100_ora_2.jpg" alt="" />
 					 <h2>Mc Laren P1 </h2>
 					 <p>With a speed of 8km / h, a driving distance of 30 meters, shock absorbers, and fully removable rubber tires, Rastar deserves to be the leading manufacturer of control vehicles for children.</p>				 
-					 <p><span class="price">$457.88</span></p>
+					 <p><span class="price">400.000 VNĐ</span></p>
 
 				     <div class="button"><span><a href="details.php" class="details">Details</a></span></div>
 				</div>

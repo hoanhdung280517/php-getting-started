@@ -41,10 +41,10 @@
 						<div class="social-icons">
 							<h4>Follow Us</h4>
 					   		  <ul>
-							      <li class="facebook"><a href="#" target="_blank"> </a></li>
-							      <li class="twitter"><a href="#" target="_blank"> </a></li>
-							      <li class="googleplus"><a href="#" target="_blank"> </a></li>
-							      <li class="contact"><a href="#" target="_blank"> </a></li>
+							      <li class="facebook"><a href="https://www.facebook.com/hoanhdung01" target="_blank"> </a></li>
+							      <li class="twitter"><a href="https://twitter.com/home" target="_blank"> </a></li>
+							      <li class="googleplus"><a href="https://myaccount.google.com/?utm_source=OGB&tab=wk&utm_medium=act" target="_blank"> </a></li>
+							      <li class="contact"><a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank"> </a></li>
 							      <div class="clear"></div>
 						     </ul>
    	 					</div>
