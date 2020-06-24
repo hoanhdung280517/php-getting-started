@@ -32,9 +32,10 @@
 				<input type="password" placeholder="Password" required="" name="adminPass"/>
 			</div>
 			<div>
-				<input type="submit" value="Log in" />
+			  <input name="submit" type="submit" value="Log in" />
 			</div>
-		</form><!-- form -->
+		</form>
+		<!-- form -->
 		<div class="button">
 			<a href="#">Training with live project</a>
 		</div><!-- button -->
