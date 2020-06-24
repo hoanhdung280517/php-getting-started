@@ -5,7 +5,6 @@
     $cat = new category();
     if($_SERVER['REQUEST_METHOD'] == 'POST'){
         $catName = $_POST['catName'];
-    
         $insertCat = $cat->insert_category($catName);
     }
 ?>
