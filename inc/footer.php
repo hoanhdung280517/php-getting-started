@@ -35,23 +35,23 @@
 				<div class="col_1_of_4 span_1_of_4">
 					<h4>Contact</h4>
 						<ul>
-							<li><span>+84-0898478461</span></li>
-							<li><span>+88-0784583739</span></li>
+							<li><span>0898478461</span></li>
+							<li><span>0899760097</span></li>
 						</ul>
 						<div class="social-icons">
 							<h4>Follow Us</h4>
 					   		  <ul>
-							      <li class="facebook"><a href="https://www.facebook.com/hoanhdung01" target="_blank"> </a></li>
-							      <li class="twitter"><a href="https://twitter.com/home" target="_blank"> </a></li>
-							      <li class="googleplus"><a href="https://myaccount.google.com/?utm_source=OGB&tab=wk&utm_medium=act" target="_blank"> </a></li>
-							      <li class="contact"><a href="https://mail.google.com/mail/u/1/#inbox" target="_blank"> </a></li>
+							      <li class="facebook"><a href="#" target="_blank"> </a></li>
+							      <li class="twitter"><a href="#" target="_blank"> </a></li>
+							      <li class="googleplus"><a href="#" target="_blank"> </a></li>
+							      <li class="contact"><a href="#" target="_blank"> </a></li>
 							      <div class="clear"></div>
 						     </ul>
    	 					</div>
 				</div>
 			</div>
 			<div class="copy_right">
-				<p>Toy world &amp; Passion of passion </p>
+				<p>Training with live project &amp; All rights Reseverd </p>
 		   </div>
      </div>
     </div>

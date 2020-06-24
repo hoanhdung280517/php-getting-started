@@ -1,6 +1,6 @@
 <?php
-define("DB_HOST", "localhost");
-define("DB_USER", "root");
-define("DB_PASS", "");
-define("DB_NAME", "Web");
+define("DB_HOST", "cluster0-dtwy3.mongodb.net");
+define("DB_USER", "web");
+define("DB_PASS", "Dung280517");
+define("DB_NAME", "web");
 ?>
