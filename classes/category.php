@@ -18,7 +18,7 @@ class category
        $this->db = new Database();
        $this->fm = new Format();
     }
-    public function insert_product($catName){
+    public function insert_category($catName){
         $catName = $this->fm->validation($catName);
         $catName = mysqli_real_escape_string($this->db->link, $catName);
     
