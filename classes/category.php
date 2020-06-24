@@ -23,10 +23,10 @@ class category
         $catName = mysqli_real_escape_string($this->db->link, $catName);
     
         if(empty($catName)){
-            $alert = " Product must be not empty";
+            $alert = " Category must be not empty";
             return $alert;
         }else{
-            $query = "INSERT INTO tbl_catproduct(catName) VALUES('$catName')";
+            $query = "INSERT INTO tbl_category(catName) VALUES('$catName')";
             $result = $this->db->insert($query); 
 
             if($result){

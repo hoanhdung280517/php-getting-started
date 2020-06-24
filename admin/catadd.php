@@ -1,12 +1,12 @@
 <?php include 'inc/header.php';?>
 <?php include 'inc/sidebar.php';?>
-<?php include '../classes/product.php'?>
+<?php include '../classes/category.php'?>
 <?php
-    $cat = new product();
+    $cat = new category();
     if($_SERVER['REQUEST_METHOD'] == 'POST'){
         $catName = $_POST['catName'];
     
-        $insertCat = $cat->insert_product($catName);
+        $insertCat = $cat->insert_category($catName);
     }
 ?>
         <div class="grid_10">

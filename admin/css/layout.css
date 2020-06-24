@@ -1161,5 +1161,9 @@ td.details {
 table.form select{width:200px;}
 .sussec{
 	font-size: 18px;
-	color: red;
+	color: green;
+}
+.error{
+	font-size:18px;
+	color:green;
 }
